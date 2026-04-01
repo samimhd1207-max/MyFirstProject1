@@ -15,14 +15,11 @@ body {
 }
 
 .welcome-page-background {
-  background-image:
-    linear-gradient(to bottom right, rgb(2 6 23 / 88%), rgb(2 6 23 / 72%)),
-    url("/welcome-background.png");
+  background-image: url("/welcome-background.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
-
 
 .welcome-actions-panel {
   border: 1px solid rgb(255 255 255 / 0.35);
